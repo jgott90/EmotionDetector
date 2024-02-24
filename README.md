@@ -1,2 +1,1 @@
-# EmotionDetector
-detect emotions in text using Watson AI
+# Repository for final project
